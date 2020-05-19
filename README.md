@@ -10,6 +10,24 @@
 ・各担当箇所は以下に記載
 
 # 制作メンバー
+<a href="https://github.com/pikarunrun"><h2>pikarunrun</h2></a>
+<h3>実装内容</h3>
+トップページ_マークアップ
+<br>
+ユーザー新規登録_サーバーサイド
+<br>
+商品詳細表示_サーバーサイド
+<br>
+商品削除機能
+<br>
+パンくず
+<br>
+商品検索機能
+<br>
+バリデーション記述
+<br>
+エラーハンドリング
+
 <a href="https://github.com/ryuso0720"><h2>ryuso0720</h2></a>
 <h3>実装内容</h3>     
 ER図作成
@@ -39,24 +57,6 @@ Basic認証
 出品画像の複数投稿_サーバーサイド
 <br>
 出品画像のプレビュー機能
-
-<a href="https://github.com/pikarunrun"><h2>pikarunrun</h2></a>
-<h3>実装内容</h3>
-トップページ_マークアップ
-<br>
-ユーザー新規登録_サーバーサイド
-<br>
-商品詳細表示_サーバーサイド
-<br>
-商品削除機能
-<br>
-パンくず
-<br>
-商品検索機能
-<br>
-バリデーション記述
-<br>
-エラーハンドリング
 
 <a href="https://github.com/toraprogram"><h2>toraprogram</h2></a>
 <h3>実装内容</h3>
